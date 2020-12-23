@@ -1,0 +1,24 @@
+$color1 : '00BCC2';
+$color2 : '50AEB3';
+$color3 : '0C7E83';
+
+$colorNegro : '212121';
+
+$colorBackground : 'F2F2F2';
+
+@font-face {
+    font-family: 'mulish';
+    src: url('../fonts/mulish.woff2') format('woff2'),
+         url('../fonts/mulish.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family: 'mulish';
+}
+
+.header{
+    background-color: $color1;
+}
+

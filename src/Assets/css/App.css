@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'mulish';
+  src: url("../fonts/mulish.woff2") format("woff2"), url("../fonts/mulish.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+* {
+  font-family: 'mulish'; }
+
+.header {
+  background-color: "00BCC2"; }
